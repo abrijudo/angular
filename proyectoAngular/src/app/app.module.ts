@@ -4,12 +4,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MenuArribaComponent } from './menu-arriba/menu-arriba.component';
 import { PruebaIndexComponent } from './prueba-index/prueba-index.component';
+import { PaginaDosComponent } from './pagina-dos/pagina-dos.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MenuArribaComponent,
-    PruebaIndexComponent
+    PruebaIndexComponent,
+    PaginaDosComponent
   ],
   imports: [
     BrowserModule,
