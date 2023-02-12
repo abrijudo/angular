@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild, ElementRef   } from '@angular/core';
 
 @Component({
   selector: 'pagina-productos',
@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./pagina-productos.component.css']
 })
 export class PaginaProductosComponent {
-
+ 
 }
