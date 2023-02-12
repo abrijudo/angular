@@ -17,22 +17,6 @@
     border: 2px solid black;
 }
 /* Boton añadir productos */
-/* .añadirProductos{
-   position: absolute;
-   margin-top: 0.5em;
-   font-size: 1.4em;
-   background-color: black;
-   padding: 6px;
-   color:white;
-   border-radius: 15px;
-   border:2px solid black;
-
-}
-.añadirProductos:hover{
-    color: black;
-    background-color:white;
- 
- } */
  .wrap {
     height: 100%;
     display: flex;
