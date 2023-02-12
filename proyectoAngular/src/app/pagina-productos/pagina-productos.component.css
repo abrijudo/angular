@@ -1,0 +1,35 @@
+/* Contenedor caja de los productos */
+.contenedorProductos{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0;
+    padding: 20px;
+    place-content: center;
+}
+/* Caja donde se mostraran los productos */
+.productos{
+    margin-top: 20px;
+    margin-inline: 20px;
+    width: 20em;
+    height: 30em;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+/* Boton añadir productos */
+.añadirProductos{
+   position: absolute;
+   margin-top: 0.5em;
+   font-size: 1.4em;
+   background-color: black;
+   padding: 6px;
+   color:white;
+   border-radius: 15px;
+   border:2px solid black;
+
+}
+.añadirProductos:hover{
+    color: black;
+    background-color:white;
+ 
+ }
